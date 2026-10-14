@@ -72,7 +72,7 @@ The notebook uses the following Python libraries:
 ### Option 1: Jupyter Notebook
 
 1. Open the notebook:
-   - `Copy_of_Brain_Tumor_CNN_Beginner_100_Per_Class.ipynb`
+   - `Brain_Tumor_MRI_Classification_with_CNN.ipynb`
 2. Install required dependencies if needed.
 3. Run all cells in order.
 
@@ -111,7 +111,7 @@ The evaluation includes:
 
 ```text
 MRI/
-├── Copy_of_Brain_Tumor_CNN_Beginner_100_Per_Class.ipynb
+├── Brain_Tumor_MRI_Classification_with_CNN.ipynb
 ├── README.md
 └── (generated outputs during notebook execution)
 ```
